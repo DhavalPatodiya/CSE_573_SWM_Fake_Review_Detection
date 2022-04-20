@@ -3,7 +3,7 @@
 Fake-Review-Detection
 Detecting Fake Reviews from the Yelp Restaurant Reviews Dataset
 
-We used three techniques to achieve the objective: Logisitic Regression, Random Forest and SVM. We also used PCA to reduce the dimensions and get the features. We used the Yelp Dataset which has data on several restaurants. Furthermore, we worked with multiple machine learning techniques and gradually improved the accuracy.
+We used three techniques to achieve the objective: Logisitic Regression, Random Forest and SVM. We also used RandomForestClassifier and PCA to reduce the dimensions and get the features.We also trained one transfomer model i.e BERT. We used the Yelp Dataset which has data on several restaurants. Furthermore, we worked with multiple machine learning techniques and gradually improved the accuracy.
 
 The repository is divided into folders as follows:
 
